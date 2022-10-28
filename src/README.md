@@ -5,6 +5,6 @@ It includes the python scripts, but also the folder structure of the flask appli
 
 ## Todo
 
-- [ ] Make the MVC structure
+- [x] Make the MVC structure
 - [ ] Implement basic working app
 - [ ] Implement basic PWA functionality

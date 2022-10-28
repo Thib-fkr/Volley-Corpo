@@ -1,0 +1,1 @@
+# File containing setup and configuration variables
